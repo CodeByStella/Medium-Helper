@@ -1,39 +1,95 @@
 # Medium Helper
 
-A Chrome extension that automatically unlocks member-only articles on Medium.
+**Medium Helper** is a lightweight Chrome extension that improves the reading experience on Medium by automatically handling member-only article pages.
 
-## Features
+This is an independent, community-supported project.
 
-- **Automatic detection**: Detects paywalled articles by looking for "become a member to read this story, and all of Medium"
-- **Auto-unlock**: Automatically fetches and displays the full article content
-- **Status indicator**: Shows a notification when an article is being unlocked or has been unlocked
+---
 
-## How to Install
+## ✨ What Medium Helper Does
 
-1. Open `chrome://extensions`
-2. Enable **Developer mode**
-3. Click **Load unpacked**
-4. Select this folder
+* Detects Medium articles restricted by a membership prompt
+* Automatically processes and displays the full article view
+* Runs silently in the background
+* Shows a small status message when processing is complete
 
-## How to Use
+No buttons. No configuration.
 
-Just visit any paywalled Medium article. The extension will:
+---
 
-1. Automatically detect the paywall
-2. Show "🔓 Unlocking article..." status
-3. Fetch the full content
-4. Replace the paywalled content
-5. Show "✓ Article unlocked by Medium Helper" when done
+## 📖 How It Works
 
-No manual action required!
+When you visit a restricted Medium article, the extension:
 
-## Files
+1. Detects the membership restriction
+2. Automatically processes the page
+3. Replaces the limited preview
+4. Displays a confirmation message when done
 
-- `manifest.json` - Extension configuration
-- `content.js` - Paywall detection and content injection
-- `background.js` - Minimal service worker
-- `logo.png` - Extension icon
+---
 
-## Privacy
+## 🔒 Privacy
 
-This extension does not collect or send any personal data. It only fetches article content from freedium when a paywall is detected.
+* No personal data collected
+* No tracking or analytics
+* No ads
+* No login or cookies stored
+
+The extension only runs on Medium article pages.
+
+---
+
+## 🆘 Support & Contact
+
+### 🐞 Bug Reports / Errors
+
+If something is not working as expected:
+
+➡️ **[Open an Issue in this repository](https://github.com/CodeByStella/Medium-Helper/issues)**
+
+Please include:
+
+* Medium article URL (if possible)
+* What you expected vs what happened
+* Chrome version
+* Extension version
+
+> ⚠️ Feature requests and general questions may be closed without response.
+
+---
+
+### 📧 Email Support
+
+For private inquiries or non-public issues, you can contact:
+
+**📩 [nextblock.dev@gmail.com](mailto:nextblock.dev@gmail.com)**
+
+---
+
+## 💖 Support the Project
+
+Medium Helper is free and open-source.
+If you find it useful, please consider supporting its development.
+
+### Ways to support:
+
+* ☕ **[Buy me a coffee / Ko-fi](https://ko-fi.com/stellaray777)**
+* ⭐ **Star this repository**
+
+Your support helps keep the project maintained and up to date.
+
+---
+
+## ⚠️ Disclaimer
+
+* This project is **not affiliated with Medium**
+* All content belongs to its original authors
+* Please support writers you enjoy by subscribing to Medium when possible
+
+This project is provided as-is, without warranty.
+
+---
+
+## 📄 License
+
+MIT License
