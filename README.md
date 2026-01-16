@@ -1,4 +1,7 @@
-# Medium Helper
+# Medium Helper 
+<img width="auto" height="100" alt="logo" src="https://github.com/user-attachments/assets/49a5e50b-6eb2-48b9-9da4-33b208841597" />
+<img width="auto" height="100" alt="logo" src="https://github.com/user-attachments/assets/49a5e50b-6eb2-48b9-9da4-33b208841597" />
+<img width="auto" height="100" alt="logo" src="https://github.com/user-attachments/assets/49a5e50b-6eb2-48b9-9da4-33b208841597" />
 
 **Medium Helper** is a lightweight Chrome extension that improves the reading experience on Medium by automatically handling member-only article pages.
 
