@@ -73,10 +73,11 @@ For private inquiries or non-public issues, you can contact:
 Medium Helper is free and open-source.
 If you find it useful, please consider supporting its development.
 
-### Ways to support:
+### 💖 Ways to Support
 
-* ☕ **[Buy me a coffee / Ko-fi](https://ko-fi.com/stellaray777)**
-* ⭐ **Star this repository**
+- ☕ [Ko-fi](https://ko-fi.com/stellaray777)
+- ⭐ [Star this repository](https://github.com/CodeByStella/Medium-Helper)
+
 
 Your support helps keep the project maintained and up to date.
 
