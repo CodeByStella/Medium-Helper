@@ -77,7 +77,10 @@ If you find it useful, please consider supporting its development.
 
 - ☕ [Ko-fi](https://ko-fi.com/stellaray777)
 - ⭐ [Star this repository](https://github.com/CodeByStella/Medium-Helper)
-
+- 💖 [Nowpayments](https://nowpayments.io/donation/stellaray777)
+<a href="https://nowpayments.io/donation/stellaray777" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" height="56" alt="Crypto donation button by NOWPayments">
+</a>
 
 Your support helps keep the project maintained and up to date.
 
