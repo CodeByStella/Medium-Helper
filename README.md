@@ -100,3 +100,15 @@ This project is provided as-is, without warranty.
 ## 📄 License
 
 MIT License
+
+---
+
+## Star History
+
+<a href="https://www.star-history.com/#CodeByStella/Medium-Helper&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CodeByStella/Medium-Helper&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CodeByStella/Medium-Helper&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CodeByStella/Medium-Helper&type=date&legend=bottom-right" />
+ </picture>
+</a>
